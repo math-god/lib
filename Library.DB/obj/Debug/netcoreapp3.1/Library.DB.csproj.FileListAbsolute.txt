@@ -1,0 +1,10 @@
+C:\Users\danya\Desktop\DIPLOM-master\OneDrive\Рабочий стол\DIPLOM\Library-main\Library.DB\bin\Debug\netcoreapp3.1\Library.DB.deps.json
+C:\Users\danya\Desktop\DIPLOM-master\OneDrive\Рабочий стол\DIPLOM\Library-main\Library.DB\bin\Debug\netcoreapp3.1\Library.DB.dll
+C:\Users\danya\Desktop\DIPLOM-master\OneDrive\Рабочий стол\DIPLOM\Library-main\Library.DB\bin\Debug\netcoreapp3.1\Library.DB.pdb
+C:\Users\danya\Desktop\DIPLOM-master\OneDrive\Рабочий стол\DIPLOM\Library-main\Library.DB\obj\Debug\netcoreapp3.1\Library.DB.csproj.AssemblyReference.cache
+C:\Users\danya\Desktop\DIPLOM-master\OneDrive\Рабочий стол\DIPLOM\Library-main\Library.DB\obj\Debug\netcoreapp3.1\Library.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\Desktop\DIPLOM-master\OneDrive\Рабочий стол\DIPLOM\Library-main\Library.DB\obj\Debug\netcoreapp3.1\Library.DB.AssemblyInfoInputs.cache
+C:\Users\danya\Desktop\DIPLOM-master\OneDrive\Рабочий стол\DIPLOM\Library-main\Library.DB\obj\Debug\netcoreapp3.1\Library.DB.AssemblyInfo.cs
+C:\Users\danya\Desktop\DIPLOM-master\OneDrive\Рабочий стол\DIPLOM\Library-main\Library.DB\obj\Debug\netcoreapp3.1\Library.DB.csproj.CoreCompileInputs.cache
+C:\Users\danya\Desktop\DIPLOM-master\OneDrive\Рабочий стол\DIPLOM\Library-main\Library.DB\obj\Debug\netcoreapp3.1\Library.DB.dll
+C:\Users\danya\Desktop\DIPLOM-master\OneDrive\Рабочий стол\DIPLOM\Library-main\Library.DB\obj\Debug\netcoreapp3.1\Library.DB.pdb

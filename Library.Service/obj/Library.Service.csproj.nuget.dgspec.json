@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\danya\\Desktop\\DIPLOM-master\\OneDrive\\Рабочий стол\\DIPLOM\\Library-main\\Library.Service\\Library.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\danya\\Desktop\\DIPLOM-master\\OneDrive\\Рабочий стол\\DIPLOM\\Library-main\\Library.DB\\Library.DB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danya\\Desktop\\DIPLOM-master\\OneDrive\\Рабочий стол\\DIPLOM\\Library-main\\Library.DB\\Library.DB.csproj",
+        "projectName": "Library.DB",
+        "projectPath": "C:\\Users\\danya\\Desktop\\DIPLOM-master\\OneDrive\\Рабочий стол\\DIPLOM\\Library-main\\Library.DB\\Library.DB.csproj",
+        "packagesPath": "C:\\Users\\danya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danya\\Desktop\\DIPLOM-master\\OneDrive\\Рабочий стол\\DIPLOM\\Library-main\\Library.DB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\danya\\Desktop\\DIPLOM-master\\OneDrive\\Рабочий стол\\DIPLOM\\Library-main\\Library.Service\\Library.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danya\\Desktop\\DIPLOM-master\\OneDrive\\Рабочий стол\\DIPLOM\\Library-main\\Library.Service\\Library.Service.csproj",
+        "projectName": "Library.Service",
+        "projectPath": "C:\\Users\\danya\\Desktop\\DIPLOM-master\\OneDrive\\Рабочий стол\\DIPLOM\\Library-main\\Library.Service\\Library.Service.csproj",
+        "packagesPath": "C:\\Users\\danya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danya\\Desktop\\DIPLOM-master\\OneDrive\\Рабочий стол\\DIPLOM\\Library-main\\Library.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\danya\\Desktop\\DIPLOM-master\\OneDrive\\Рабочий стол\\DIPLOM\\Library-main\\Library.DB\\Library.DB.csproj": {
+                "projectPath": "C:\\Users\\danya\\Desktop\\DIPLOM-master\\OneDrive\\Рабочий стол\\DIPLOM\\Library-main\\Library.DB\\Library.DB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "PresentationFramework": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

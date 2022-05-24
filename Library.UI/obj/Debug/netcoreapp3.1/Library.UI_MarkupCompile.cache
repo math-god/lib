@@ -1,0 +1,20 @@
+﻿Library.UI
+
+
+winexe
+C#
+.cs
+C:\Users\danya\Desktop\DIPLOM-master\OneDrive\Рабочий стол\DIPLOM\Library-main\Library.UI\obj\Debug\netcoreapp3.1\
+Library.UI
+none
+false
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+C:\Users\danya\Desktop\DIPLOM-master\OneDrive\Рабочий стол\DIPLOM\Library-main\Library.UI\App.xaml
+14452709002
+
+161038641563
+219-1133093195
+LibrarianWindows\BookListWindows\AddingBookByIsbnWindow.xaml;LibrarianWindows\BookListWindows\AddingBookWindow.xaml;LibrarianWindows\BookListWindows\BookDescriptionWindow.xaml;LibrarianWindows\BookListWindows\BookListWindow.xaml;LibrarianWindows\BookListWindows\EditingBookWindow.xaml;LibrarianWindows\LibrarianSignInWindow.xaml;LibrarianWindows\LibrariansOfficeWindow.xaml;LibrarianWindows\ReaderListWindows\AddingReaderWindow.xaml;LibrarianWindows\ReaderListWindows\EditingReaderWindow.xaml;LibrarianWindows\ReaderListWindows\ReaderListWindow.xaml;MainWindow.xaml;ReaderWindows\BookListWindow.xaml;ReaderWindows\ReaderSignInWindow.xaml;ReaderWindows\ReadersOfficeWindow.xaml;
+
+False
+
